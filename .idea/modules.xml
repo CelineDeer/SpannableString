@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlarmDemo.iml" filepath="$PROJECT_DIR$/AlarmDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CardView/CardView.iml" filepath="$PROJECT_DIR$/CardView/CardView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpannableString/SpannableString.iml" filepath="$PROJECT_DIR$/SpannableString/SpannableString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twoservice/twoservice.iml" filepath="$PROJECT_DIR$/twoservice/twoservice.iml" />
+    </modules>
+  </component>
+</project>
