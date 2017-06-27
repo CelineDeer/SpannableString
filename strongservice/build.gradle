@@ -2,16 +2,10 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 25
-    buildToolsVersion "25.0.1"
-
-    sourceSets {
-        main {
-            aidl.srcDirs = ['src/main/aidl']
-        }
-    }
+    buildToolsVersion "25.0.2"
 
     defaultConfig {
-        applicationId "com.hxl.twoservice"
+        applicationId "com.hxl.strongservice"
         minSdkVersion 15
         targetSdkVersion 25
         versionCode 1
